@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite
+}
+.text{
+    font-style: italic
+}
+p {
+    color: black
+}
+h1 {
+  text-align: center;
+  color: brown
+}
+h2 {
+    text-align: center;
+    color: darkmagenta
+}
+.brg{
+    border: 4px red;
+    background: white
+}
+.str{
+    font-weight: bold
+}
+.u{
+    text-decoration: underline
+}
+.s{
+    text-decoration: line-through
+}
