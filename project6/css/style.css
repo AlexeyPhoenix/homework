@@ -1,0 +1,27 @@
+body {
+    background-color: black
+}
+.text{
+    font-style: italic
+}
+p {
+    color: aliceblue;
+}
+h1 {
+  color: brown
+}
+h2 {
+    color: blueviolet
+}
+li {
+    color: aqua
+}
+u {
+    text-decoration: underline
+}
+s{
+    text-decoration: line-through
+}
+strong{
+    font-weight: bold
+}
