@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+.body{
+    background-color: #fff;
+    font-family: Arial, sans-serif
+}
+button{
+    background-color: #ec744a;
+    border:0;
+    outline: none;
+    width: 252px;
+    height: 50px;
+    cursor: pointer;
+}
+button span{
+    width: 174px;
+    height: 18px;
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: 400;
+}
+.wrapper{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 89px;
+    width: 1010px;
+    height: 503px;
+    background-color: #ffffff;
+    border: 1px solid #d7d7d7;
+    width: 962px;
+    padding: 64px 48px 64px 48px;
+    vertical-align: top;
+} 
+.box{
+    vertical-align: top;
+    display: inline-block;
+}
+    
+
+
