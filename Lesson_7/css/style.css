@@ -1,10 +1,46 @@
 .wrapper{
 display: flex;
+align-items: flex-start;
 border: 1px solid red;
 width: 1920px;
 height: 723px;;
 background-color: #f9f9f9;
-flex-direction: column;
+}
+.box-1{
+display: flex;
+align-items: flex-start;
+width: 552px;
+height: 31px;
+color: #000000;
+font-family: "Proxima Nova";
+font-size: 36px;
+font-weight: 400;
+border: 1px solid red;
+}
+.box-2{
+display: flex;
+align-items: flex-start;
+border: 1px solid red;
+}
+.img-1{
+display: flex;
+align-items: flex-start;
+border: 1px solid red;
+}
+.img-2{
+display: flex;
+align-items: flex-start;
+border: 1px solid red;
+}
+.img-3{
+display: flex;
+align-items: flex-start;
+border: 1px solid red;
+}
+.img-4{
+display: flex;
+align-items: flex-start;
+border: 1px solid red;
 }
 .text{
 color: #000000;
@@ -18,22 +54,10 @@ font-family: "Proxima Nova";
 font-size: 18px;
 font-weight: 700;
 }
-.buy{
+.botton{
 color: #23bac1;
 font-family: "Proxima Nova";
 font-size: 13px;
 font-weight: 700;
-text-transform: uppercase;  
+text-transform: uppercase;
 }
-.box-1{
-color: #000000;
-font-family: "Proxima Nova";
-font-size: 36px;
-font-weight: 400;
-}
-.img{
-}
-
-
-
-
