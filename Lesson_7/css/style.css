@@ -1,29 +1,39 @@
 .wrapper{
 display: flex;
-justify-content: space-around;
+border: 1px solid red;
 width: 1920px;
 height: 723px;;
 background-color: #f9f9f9;
+flex-direction: column;
 }
-.element-2{
+.text{
 color: #000000;
 font-family: "Proxima Nova";
 font-size: 16px;
 font-weight: 300;
 }
-.element-3{
+.price{
 color: #000000;
 font-family: "Proxima Nova";
 font-size: 18px;
 font-weight: 700;
 }
-.element-4{
-width: 51px;    height: 9px;
+.buy{
 color: #23bac1;
 font-family: "Proxima Nova";
 font-size: 13px;
 font-weight: 700;
-text-transform: uppercase;
+text-transform: uppercase;  
 }
+.box-1{
+color: #000000;
+font-family: "Proxima Nova";
+font-size: 36px;
+font-weight: 400;
+}
+.img{
+}
+
+
 
 
