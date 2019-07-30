@@ -132,6 +132,7 @@ body{
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 35px;
+    text-decoration: none;
 }
 .footer a{
     display: block;
@@ -139,4 +140,7 @@ body{
 }
 .footer{
     line-height: 1.4;
+}
+a{
+    text-decoration: none;
 }
